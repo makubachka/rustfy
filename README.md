@@ -1,0 +1,2 @@
+# rustfy
+rust
